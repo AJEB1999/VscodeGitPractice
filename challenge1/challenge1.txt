@@ -7,5 +7,5 @@ Hellow World
 - git add .
 
 "Commit"
--git commit -m 'First Commit' s
+-git commit -m 'First Commit'
 
