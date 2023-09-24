@@ -1,0 +1,7 @@
+Hellow World
+
+"Stagging Area
+- git add .
+
+"Commit"
+-git commit -m 'First Commit'
